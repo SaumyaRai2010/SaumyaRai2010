@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=600"/></a>
+<a href="#"><img width="100%" height="auto" src="C:\Users\sauny\Downloads\pinkm"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saumya</h1>
 <h3 align="center">I'm a geek just trying to optimize my life everyday.</h3>
